@@ -99,7 +99,7 @@ body {
 @media screen and (max-device-width : 768px)
 {
     * {
-        font-size: 3vh;
+        font-size: 2vh;
     }
     .container {
         flex-direction: column;
